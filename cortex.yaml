@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-banshee
+  x-cortex-tag: monster-banshee
+x-cortex-custom-data:
+  alignment: chaotic-evil
+  challenge_rating: 4
+  legendary: false
+  source: dnd-5e
+  type: undead
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-banshee
+x-cortex-type: monster
